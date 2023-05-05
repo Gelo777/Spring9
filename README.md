@@ -1,2 +1,2 @@
-# Spring9
-Spring9
+# java-filmorate
+Template repository for Filmorate project.
